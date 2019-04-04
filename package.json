@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "ouyj <ouyingjie1992@qq.com>",
+  "main": "packages/index.js",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
